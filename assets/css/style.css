@@ -367,6 +367,8 @@ body {
     padding: 0 0.5rem;
   } 
 
+/* End of styling specific to instruction page */
+
 
 @keyframes intro {
   0% { opacity: 1; }
