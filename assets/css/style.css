@@ -1,5 +1,5 @@
 body {
-  background-image: url('/assets/images/background-image-stars.jpg');
+  background-image: url('https://res.cloudinary.com/dugnokxox/image/upload/v1684158812/background-image-stars_a4cl9p.jpg');
   margin: 0px;
 }
 
@@ -11,7 +11,7 @@ body {
   font-weight: 700;
   color: #EBD71C;
   background-color: #000;
-  background: url('/assets/images/background-image-stars.jpg') no-repeat center center fixed;
+  background: url('https://res.cloudinary.com/dugnokxox/image/upload/v1684158812/background-image-stars_a4cl9p.jpg') no-repeat center center fixed;
   background-size: cover;
   overflow: hidden;
   position: relative;
