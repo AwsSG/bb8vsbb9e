@@ -2,7 +2,7 @@
 
 (Screen Shot to be added here)
 
-(link to live site here)
+[(link to live site here)](https://awssg.github.io/bb8vsbb9e/)
 
 ## Game scenario
 
